@@ -58,8 +58,8 @@ This project was built by following a tutorial from FreeCodeCamp, a well-known p
 ```text
 static-html-css-project/
 │
-├── index.html        # Main HTML file
-├── style.css         # Custom CSS styles
+├── cafemenu.html        # Main HTML file
+├── cafemenu2.css         # Custom CSS styles
 └── README.md         # Project documentation
 ```
 ---
