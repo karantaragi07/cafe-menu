@@ -55,13 +55,13 @@ This project was built by following a tutorial from FreeCodeCamp, a well-known p
 ---
 
 📂 Project Structure
-
+```text
 static-html-css-project/
 │
 ├── index.html        # Main HTML file
 ├── style.css         # Custom CSS styles
 └── README.md         # Project documentation
-
+```
 ---
 
 🙏 Acknowledgments
